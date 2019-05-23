@@ -6,4 +6,4 @@
 
 
 
-This repository contains some small demos that I wrote during my learning of FLutter.
+This repository contains some small demos that I wrote during my learning of Flutter.
